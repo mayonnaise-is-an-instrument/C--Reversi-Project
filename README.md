@@ -1,2 +1,2 @@
 # C--Reversi-Project
-Smalltalk Reversi project for Advanced OOP
+C# Reversi project for Advanced OOP
